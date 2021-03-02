@@ -1,0 +1,95 @@
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiEsoP2XZh1Q89plXhlUy-d9fesfrqIa5ChA&usqp=CAU");
+}
+
+* {
+    box-sizing: border-box;
+  }
+  .card{
+      background-color: rgb(189, 151, 151);
+      box-shadow: 4px 2px 3px rgb(58, 26, 26);
+      font-size:20px;
+      text-align:center;
+      border-bottom:1px solid #0b110d;
+      padding:  10px;
+      color:#2ea05d;
+      margin: 20px;
+      border-radius: 10px;
+        
+  }
+
+  #mian-container {
+    padding-top: 100px !important;
+  }
+  
+    
+    .container {
+        
+        text-align: center;
+      background:#684518;
+      padding:25px;
+      max-width:450px;
+      margin:0px auto;
+      overflow:hidden;
+      border-radius:10px;
+      border:6px solid #38b438;
+      font-family: sans-serif;
+    }
+    
+    h2 {
+      margin:0;
+      text-align:center;
+      color: black;
+      text-transform:uppercase;
+      
+     
+    }
+    h1 {
+        text-align:center;
+        color: rgb(238, 152, 95);
+    }
+  
+    
+   
+    
+     .todo {
+       font-size: 30px;
+       font-weight: bold;
+      text-align: center;
+      padding:10px 15px;
+      border:2px solid #b1c9bb;
+      border-radius:5px;
+      background:rgb(175, 110, 57);
+      margin:15px 0;
+    }
+  
+    input{
+      font-size: 20px;
+      font-weight: bold;
+      text-align: center;
+     padding:10px 15px;
+     border:2px solid #040504;
+     border-radius:5px;
+     background:rgb(255, 248, 248);
+     margin:15px 0px;
+     width:100%;
+    }
+  
+    button{
+      font-size: 20px;
+      font-weight: bold;
+     text-align: center;
+     padding:10px;
+     border:2px solid #92a89b;
+     border-radius:5px;
+     background:#FFF;
+     margin:15px;
+    }
+
+    .btnstyle {
+     border: solid 2px black;
+     color: rgb(214, 16, 16);
+    }
+    
+    
+   
